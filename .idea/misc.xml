@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RiderMotoGP/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/RiderMotoGP/app/src/main/res/layout/list_item_rider.xml" value="0.2" />
+        <entry key="..\:/RiderMotoGPNew/app/src/main/res/layout/activity_tambah.xml" value="0.1" />
+        <entry key="..\:/RiderMotoGPNew/app/src/main/res/layout/activity_ubah.xml" value="0.1" />
+        <entry key="..\:/RiderMotoGPNew/app/src/main/res/layout/list_item_rider.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio/RiderMotoGPNew/app/src/main/res/layout/activity_tambah.xml" value="0.23282442748091603" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio/RiderMotoGPNew/app/src/main/res/layout/activity_ubah.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
