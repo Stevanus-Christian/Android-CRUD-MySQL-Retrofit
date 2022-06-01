@@ -33,7 +33,7 @@ $db = "id18651426_dbmotogp";
 $konek = mysqli_connect($host, $user, $pass, $db) or die("MySQL Tidak Terhubung");
 ?>
 ```
-<br>
+
 ### create.php
 ```php
 <?php
@@ -66,7 +66,7 @@ else{
 echo json_encode($response);
 mysqli_close($konek);
 ```
-<br>
+
 ### retrieve.php
 ```php
 <?php
@@ -102,7 +102,7 @@ else{
 echo json_encode($response);
 mysqli_close($konek);
 ```
-<br>
+
 ### delete.php
 ```php
 <?php
@@ -134,7 +134,7 @@ else{
 echo json_encode($response);
 mysqli_close($konek);
 ```
-<br>
+
 ### update.php
 ```php
 <?php
@@ -171,7 +171,7 @@ echo json_encode($response);
 mysqli_close($konek);
 ?>
 ```
-<br>
+
 # How To Use
 1. Clone or Download this project
 2. Create and then import database "id18651426_dbmotogp"
