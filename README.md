@@ -64,6 +64,7 @@ else{
 
 echo json_encode($response);
 mysqli_close($konek);
+?>
 ```
 
 ### retrieve.php
@@ -100,6 +101,7 @@ else{
 
 echo json_encode($response);
 mysqli_close($konek);
+?>
 ```
 
 ### delete.php
@@ -132,6 +134,7 @@ else{
  
 echo json_encode($response);
 mysqli_close($konek);
+?>
 ```
 
 ### update.php
