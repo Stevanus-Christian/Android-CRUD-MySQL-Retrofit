@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/Stevanus-Christian/Android-CRUD-MySQL-Retrofit/blob/main/MySQL-Logo.wine.png">
 </p>
-<br>
 
 # Android CRUD MySQL with Retrofit
 Simple Android CRUD MySQL with Retrofit
@@ -175,7 +174,7 @@ mysqli_close($konek);
 # How To Use
 1. Clone or Download this project
 2. Create and then import database "id18651426_dbmotogp"
-3. Make API for cCRUD data
+3. Make API for CRUD data
 4. Run this project on Android Studio
 5. Enjoy
 
