@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Stevanus-Christian/Android-CRUD-MySQL-Retrofit/blob/main/mysqllogo.png">
+  <img src="https://github.com/Stevanus-Christian/Android-CRUD-MySQL-Retrofit/blob/main/MySQL-Logo.wine.png">
 </p>
 <br>
 
