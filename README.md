@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Stevanus-Christian/Android-CRUD-SQLite/blob/main/SQLite370.svg">
+  <img src="https://github.com/Stevanus-Christian/Android-CRUD-MySQL-Retrofit/blob/main/mysqllogo.png">
 </p>
 <br>
 
