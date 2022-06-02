@@ -177,7 +177,7 @@ mysqli_close($konek);
 # How To Use
 1. Clone or Download this project
 2. Create a website
-3. Create and then import database "id18651426_dbmotogp"
+3. Create and then import database "id18651426_dbmotogp.sql"
 4. Make API for CRUD data
 5. Run this project on Android Studio
 6. Enjoy
